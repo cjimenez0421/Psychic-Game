@@ -43,4 +43,4 @@ document.onkeyup = function(event) {
 		document.querySelector("#lose").innerHTML = "Loses: " + losses;
 		restart();
 	}
-  };
+  }
